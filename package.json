@@ -1,0 +1,12 @@
+{
+  "name": "real-estate-ai-proxy",
+  "version": "1.0.0",
+  "description": "Serverless proxy for Real Estate Market Intelligence AI chat",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "keywords": ["vercel", "serverless", "anthropic", "claude", "proxy"],
+  "author": "",
+  "license": "MIT"
+}
